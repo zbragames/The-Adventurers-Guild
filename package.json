@@ -19,6 +19,6 @@
   "homepage": "https://github.com/zbragames/The-Adventurers-Guild#readme",
   "dependencies": {
     "luamin": "^1.0.4",
-    "symlink-dir": "^4.1.0"
+    "symlink-dir": "^9.0.0"
   }
 }
